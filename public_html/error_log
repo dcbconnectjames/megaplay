@@ -1,0 +1,1 @@
+[30-Jun-2022 07:05:08 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/stgmegaplayzaco/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
